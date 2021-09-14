@@ -1,1 +1,1 @@
-# MICE_Parable
+# MICE Study 1
